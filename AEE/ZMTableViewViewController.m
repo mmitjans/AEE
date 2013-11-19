@@ -149,6 +149,7 @@
     }];
     
     self.loaded = YES;
+    [self.tableView reloadData];
 }
 
 // Settings button

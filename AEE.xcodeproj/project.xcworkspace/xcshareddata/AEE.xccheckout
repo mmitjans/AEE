@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B000C0E-93BB-4B59-AFA8-6D78C5DE8F95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AEE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC3DD75F-A40A-43C7-811E-BA3370E0CE19</key>
+		<string>https://github.com/mmitjans/AEE.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AEE.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC3DD75F-A40A-43C7-811E-BA3370E0CE19</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mmitjans/AEE.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC3DD75F-A40A-43C7-811E-BA3370E0CE19</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC3DD75F-A40A-43C7-811E-BA3370E0CE19</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AEE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
